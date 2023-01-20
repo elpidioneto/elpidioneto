@@ -5,10 +5,10 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 Atualmente eu trabalho com testes Mobile com Appium e JUnit
-- 🌱 Estou estudando Cucumber, CI/CD, JMeter
+- 🔭 Atualmente eu trabalho com testes Mobile e Web com Appium, Selenium, Cucumber e JUnit
+- 🌱 Estou estudando CI/CD, JMeter,Robot Framework, Python, JS, Cypress
 - 💬 Pode perguntar sobre Testes e automação de testes
-- 🐞 Também faço testes Unitários, API e WEB
+- 🐞 Também faço testes Unitários e API
 
 <a href='#'>
   <img alt="Meu GitHub Status" height="180em"src="https://github-readme-stats.vercel.app/api?username=elpidioneto&show_icons=true&theme=tokyonight"/>
