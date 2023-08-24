@@ -38,5 +38,5 @@ Here are some ideas to get you started:
 
 ##
 <div>
-  <a href="https://www.linkedin.com/in/elpidio-neto12"><img alt="Elpidio Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a target="_blank" href="https://www.linkedin.com/in/elpidio-neto12"><img alt="Elpidio Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   </div>
