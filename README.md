@@ -31,8 +31,8 @@ Here are some ideas to get you started:
 
 ### Certificações
 
-<img alt="Elpidio-CTFL" height="100" width="100" src="https://bstqb.org.br/b9/img/selos/sign-FL.png" />
-<img alt="Elpidio-CTFL" height="100" width="100" src="https://bstqb.org.br/b9/img/selos/sign-AT.png" />
+<img alt="Elpidio-CTFL" height="200" width="200" src="https://bstqb.online/img/selos/s-ctfl.png" />
+<img alt="Elpidio-CTFL-AT" height="200" width="200" src="https://bstqb.online/img/selos/s-ctfl-at.png" />
 
 </div>
 
