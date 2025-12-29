@@ -5,8 +5,9 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 Atualmente eu trabalho com testes Mobile e Web com Appium, Selenium, Cucumber e JUnit
-- 🌱 Estou estudando CI/CD, JMeter,Robot Framework, Python, JS, Cypress
+- 🔭 Atualmente trabalho com testes web e de API com cypress
+- 📖 Ja trabalhei com testes Mobile e Web com Appium, Selenium, Cucumber e JUnit
+- 🌱 Estou estudando CI/CD, JMeter,Robot Framework, Python
 - 💬 Pode perguntar sobre Testes e automação de testes
 - 🐞 Também faço testes Unitários e API
 
